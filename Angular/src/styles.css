@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+.logo
+{
+    margin: 0;
+    width:50%;
+    height:50%;
+}
+
+body {
+    background-image: url('../src/assets/images/background.jpg'); background-repeat:no-repeat ;background-size: cover;
+
+}
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    background: red;
+    display: flex;
+}
